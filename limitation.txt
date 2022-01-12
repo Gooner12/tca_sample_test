@@ -1,0 +1,17 @@
+'Design, Engineering, Science and Transport Professionals', 'ICT Professionals', 'Engineering, ICT and Science Technicians', 'Electrotechnology and Telecommunications Trades Workers', 'Other Technicians and Trades Workers', 'Technicians and Trades Workers nfd'
+
+Limitation and assumptions:
+1) The relevant tech industries are selected based on the information available on the labour market information portal,
+and there is a chance that there is an inclusion of non-tech roles in those selected industries. 
+
+2) While selecting the relevant tech occupations, a short research and personal judgement was used. So, there might
+be a presence in judgemental bias in the occupation selection process. Also, certain occupation titles such as 
+technicians and trade workers might include non tech people too. On the other hand, occupations such as chief
+executives, administrative workers,etc., are present in the tech sector even though they seem non-technical jobs.
+In this analysis, we have omitted such non-technical sounding jobs. Thus, in the occupation selection process, we
+might be including some non tech people and excluding some tech people.This is one of the limitations of our 
+analysis.
+
+3) The old definition of states and territories are assumed to be the same as the present day states and territories.
+In our data preprocessing steps, we merged different divided geographical regions into a single state, such as 
+NSW, Greater Sydney, Sydney, into NSW. This transformation has beed applied to relevant states.  
