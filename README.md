@@ -18,4 +18,4 @@ In this project, to analyse the trends and to develop insights, two methods are 
 
 2) While selecting the relevant tech occupations, short research and personal judgement were used. So, there might be a presence of judgemental bias in the occupation selection process. Due to this, we might include some non-tech people and exclude some tech people. 
 
-3) The old definition of states and territories are assumed to be the same as the present-day states and territories. In our data preprocessing steps, we merged different divided geographical regions into a single state, such as NSW, Greater Sydney and Sydney, into NSW. This transformation has been applied to relevant states.
+3) The old definition of states and territories is assumed to be the same as the present-day states and territories. In our data preprocessing steps, we merged different divided geographical regions into a single state, such as NSW, Greater Sydney and Sydney, into NSW. This transformation has been applied to relevant states.
